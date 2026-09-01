@@ -1,0 +1,5 @@
+package com.baguspangestu.whyapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
