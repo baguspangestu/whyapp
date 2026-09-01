@@ -26,5 +26,5 @@ Thumbs.db
 /apps/server/generated/
 
 # Local databases
-**/prisma/*.db
-**/prisma/*.db-journal
+**/*.db
+**/*.db-journal
